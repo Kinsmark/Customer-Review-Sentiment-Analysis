@@ -25,7 +25,7 @@ The model reaches 87% overall accuracy, but that number is mostly carried by the
 
 - `alexa_sentiment_analysis.ipynb` - the full notebook, from raw review text to trained model, with NLP concepts (tokenization, stop words, TF-IDF) explained in plain language before the code
 - `train_and_save_model.py` - retrains the model from scratch and saves the files the app needs
-- `app.py` - the Streamlit app
+- `app.py` - the Streamlit app -- https://customer-review-sen.streamlit.app/
 - `requirements.txt` - dependencies for deployment
 - `README.md` - this file
 
